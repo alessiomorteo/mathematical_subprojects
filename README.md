@@ -1,1 +1,1 @@
-# mathematical_subprojects
+# mixed_mathematical_projects
